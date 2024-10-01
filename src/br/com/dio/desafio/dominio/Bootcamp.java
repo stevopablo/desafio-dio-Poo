@@ -47,7 +47,7 @@ public class Bootcamp {
     }
 
     public Set<Conteudo> getConteudos() {
-        return conteudos; // Removed the static modifier
+        return conteudos;
     }
 
     public void setConteudos(Set<Conteudo> conteudos) {

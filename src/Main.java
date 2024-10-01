@@ -37,6 +37,7 @@ public class Main {
         bootcamp.getConteudos().add(mentoria);
 
 
+
         Dev devPablo = new Dev();
         System.out.println("Pablo");
         devPablo.setNome("Pablo");
@@ -50,6 +51,7 @@ public class Main {
         System.out.println("XP: "+ devPablo.calcularTotalXp());
         System.out.println("============");
 
+        
 
         Dev devCamila = new Dev();
         System.out.println("Camila");
